@@ -1,4 +1,4 @@
-![Header](./header.png])
+![Header](./header.png)
 
 I'm a **Senior Backend Developer** with a strong foundation in planning, designing and building scalable and reliable systems. Throughout my career, I've worked across diverse industries including **education, healthcare, tourism, and finance**, which has given me a broad perspective on business needs and technical challenges.
 
